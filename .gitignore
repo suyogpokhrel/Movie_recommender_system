@@ -1,3 +1,6 @@
 ml_env/
 __pycache__/
 .ipynb_checkpoints/
+
+similarity.pkl
+movie_dict.pkl
